@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import datetime
+
+    # create birthday here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7328
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7328">JetBrains
+    Academy</a></html>
+  time: Thu, 30 Jul 2020 06:15:05 UTC
+record: -1
